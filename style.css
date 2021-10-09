@@ -6,13 +6,26 @@
     margin-right: auto;
 }
 
-/* navigation section */
+/* navigation list section */
 
 .navlist {
     display: flex;
     color: #f9faf8;
     background-color: #1f2937;
-    padding: 20px 0px 20px 100px;
     align-items: center;
     list-style: none;
+    gap: 0px;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;
 }
+
+.navlist a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;
+    padding: 8px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*  hero section */
+
