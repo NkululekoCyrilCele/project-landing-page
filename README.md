@@ -1,4 +1,5 @@
 This project contains all the files required for the exemplary page described in the ODIN PROJECT lessons.
+The name of the page is PHART, which stands for PHOTOGRAPHY and ART.
 Also, the urls of the photos used in this project are contributed by:
 
 Jorge Percival: https://unsplash.com/photos/gaxCQLElS64?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink
