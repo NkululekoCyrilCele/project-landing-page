@@ -29,3 +29,20 @@
 
 /*  hero section */
 
+.hero {
+    display: flex;
+    color: #f9faf8;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: center;
+    padding: 90px;
+    flex-basis: 400px;
+    flex-direction: column;
+    text-align: left;
+    margin-right: auto;
+}
+
+,hero p {
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+}
