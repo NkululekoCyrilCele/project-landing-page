@@ -42,7 +42,34 @@
     margin-right: auto;
 }
 
-,hero p {
+.hero p {
     font-family: 'Courier New', Courier, monospace;
     opacity: 0.7;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+    margin: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hero button {
+    display: block;
+    text-align: center;
+    width: 10px;
+    border: none;
+    background: #3882f6;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero-image img {
+    height: 350px;
+    width: 500px;
 }
