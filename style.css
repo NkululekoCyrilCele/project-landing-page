@@ -1,4 +1,18 @@
+/* logo section */
+
 .logo img {
     height: 300px;
     width: 300px;
+    margin-right: auto;
+}
+
+/* navigation section */
+
+.navlist {
+    display: flex;
+    color: #f9faf8;
+    background-color: #1f2937;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+    list-style: none;
 }
