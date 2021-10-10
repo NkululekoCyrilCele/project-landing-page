@@ -1,3 +1,18 @@
+/* body section */
+
+body {
+    background-color: #ffffff;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
 /* logo section */
 
 .logo img {
