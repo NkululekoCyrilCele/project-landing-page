@@ -133,3 +133,23 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: right;
 }
+
+/* sign-up section */
+
+.sign-up {
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    border-color: none;
+}
+
+.text {
+    flex: 1;
+}
+
+.button-two {
+    flex: 1;
+}
