@@ -88,3 +88,13 @@ body {
     height: 350px;
     width: 500px;
 }
+
+/* content-two part */
+
+.content-two {
+    align-items: center;
+}
+
+.info {
+    display: flex;
+}
