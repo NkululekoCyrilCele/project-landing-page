@@ -180,3 +180,8 @@ body {
 
 /* footer */
 
+.footer {
+    background-color: #1f2937;
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
