@@ -1,7 +1,7 @@
 /* body section */
 
 body {
-    background-color: #ffffff;
+    background-color: #1f2937;
     padding: 0px;
     margin: 0px;
     text-align: center;
@@ -15,10 +15,21 @@ body {
 
 /* logo section */
 
+.logo b {
+    font-size: 24px;
+    color: #f9faf8;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    padding-left: 8px;
+    display: flex;
+}
+
 .logo img {
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
     margin-right: auto;
+    display: flex;
+    padding-left: 8px;
 }
 
 /* navigation list section */
@@ -60,11 +71,13 @@ body {
 .hero p {
     font-family: 'Courier New', Courier, monospace;
     opacity: 0.7;
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .hero h1 {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: bolder;
     color: #f9faf8;
     margin: 0px;
     font-family: 'Courier New', Courier, monospace;
