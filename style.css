@@ -148,8 +148,35 @@ body {
 
 .text {
     flex: 1;
+    text-align: left;
+}
+
+.text p {
+    color: #fff;
+    opacity: 0.7;
+    margin: 5px 30px 30px 50px;
+}
+
+.text h3 {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0;
+    margin: 30px 0px 0px 50px;
 }
 
 .button-two {
     flex: 1;
 }
+
+.button-two button {
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: #fff;
+    border-radius: 8px;
+    background-color: #3882f6;
+    padding: 5px 25px;
+    font-size: 15px;
+}
+
+/* footer */
+
