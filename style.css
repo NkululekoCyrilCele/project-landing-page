@@ -97,4 +97,6 @@ body {
 
 .info {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
 }
