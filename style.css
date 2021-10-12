@@ -124,6 +124,7 @@ h1 {
 
 .content-two {
     align-items: center;
+    background-color: #f9faf8;
 }
 
 .info {
@@ -188,7 +189,7 @@ h1 {
     margin: 5px 30px 30px 50px;
 }
 
-.text h3 {
+h3 {
     color: #fff;
     font-family: 'Courier New', Courier, monospace;
     padding: 0;
