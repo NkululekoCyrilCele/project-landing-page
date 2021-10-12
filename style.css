@@ -2,8 +2,8 @@
 
 body {
     background-color: #1f2937;
-    padding: 0px;
-    margin: 0px;
+    padding: 0;
+    margin: 0;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -24,23 +24,31 @@ body {
     display: flex;
 }
 
-.logo img {
+/*.logo img {
     height: 200px;
     width: 200px;
     margin-right: auto;
     display: flex;
     padding-left: 8px;
-}
+}*/
 
 /* navigation list section */
+
+.navbar {
+    display: flex;
+    color: #f9faf8;
+    background-color: #1f2937;
+    padding: 20px 0px 20px 100px;
+    align-items: center;
+}
 
 .navlist {
     display: flex;
     color: #f9faf8;
     background-color: #1f2937;
-    align-items: center;
+    /*align-items: center;
     list-style: none;
-    gap: 0px;
+    gap: 0px;*/
     margin-left: auto;
     padding: 0px 100px 0px 0px;
 }
@@ -49,7 +57,7 @@ body {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 18px;
-    padding: 8px;
+    padding: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -62,31 +70,41 @@ body {
     align-items: center;
     justify-content: center;
     padding: 90px;
-    flex-basis: 400px;
+    /*flex-basis: 400px;
     flex-direction: column;
     text-align: left;
-    margin-right: auto;
+    margin-right: auto;*/
 }
 
-.hero p {
-    font-family: 'Courier New', Courier, monospace;
+.hero-sub {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+    /*font-family: 'Courier New', Courier, monospace;
     opacity: 0.7;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #e5e7eb;*/
 }
 
-.hero h1 {
+.hero-sub p {
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+}
+
+h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
-    margin: 0px;
+    margin: 0;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .hero button {
     display: block;
     text-align: center;
-    width: 10px;
+    width: 110px;
     border: none;
     background: #3882f6;
     padding: 10px;
