@@ -58,3 +58,38 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+/* hero section */
+
+.hero {
+    display: flex;
+    color: #f9faf8;
+    background-color: #1f2937;
+    align-items: center;
+    padding: 90px;
+}
+
+.hero-sub {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-right: 50px;
+}
+
+.hero-sub p {
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.hero-image img {
+    height: 900px;
+    width: 800px;
+}
