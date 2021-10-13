@@ -1,4 +1,4 @@
-This project contains all the files required for the exemplary page described in the ODIN PROJECT lessons.
+This page contains all files required for the exemplary page described in the ODIN PROJECT lessons.
 The name of the page is PHREE ART (pronounced as Free Art), which stands for PHOTOGRAPHY (PH), STREET (REE), and ART.
 Also, the urls of the photos used in this project are contributed by:
 
