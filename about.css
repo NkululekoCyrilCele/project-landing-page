@@ -24,14 +24,6 @@ body {
     display: flex;
 }
 
-.header img {
-    height: 350px;
-    width: 500px;
-    /*margin-right: auto;
-    display: flex;
-    padding-left: 8px;*/
-}
-
 /* nav section */
 
 .navbar {
@@ -93,3 +85,4 @@ h1 {
     height: 900px;
     width: 800px;
 }
+
