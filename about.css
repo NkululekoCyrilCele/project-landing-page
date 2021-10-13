@@ -86,3 +86,10 @@ h1 {
     width: 800px;
 }
 
+/* sign up section */
+
+.sign-up {
+    background-color: #3882f6;
+    margin: 50px 200px;
+    padding: 10px 80px;
+}
